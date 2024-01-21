@@ -1,0 +1,32 @@
+#root{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    font-family: 'Raleway', sans-serif;
+    font-weight: bold
+    
+}
+
+main{
+    width: 50%;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+
+}
+
+h1{
+    text-align: center;
+}
+
+.iconos{
+    display: flex;
+    justify-content: center;
+}
+
+.visualicono {
+margin: 10px;
+padding: 15px;
+border: 2px  solid black;
+border-radius: 50px;
+}
